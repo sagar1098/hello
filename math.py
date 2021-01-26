@@ -12,10 +12,7 @@ def multiply(x,y):
 def divide(x,y):
 	if y==0:
 		return error
-<<<<<<< HEAD
     return x/y
-=======
     return x/y
     def square(n)
     return n*n
->>>>>>> a6fbde8 (square imple)
